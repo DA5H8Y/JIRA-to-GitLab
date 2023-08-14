@@ -1,0 +1,55 @@
+{
+    "Groups":[
+        {
+            "name":"RandD",
+            "path":"/"
+        },
+        {
+            "name":"Tasks",
+            "path":"/RandD/"
+        },
+        {
+            "name":"Tools",
+            "path":"/"
+        },
+        {
+            "name":"Toolboxes",
+            "path":"/"
+        }
+    ],
+    "Projects":[
+        {        
+            "name":"RandD",
+            "path":"/RandD/",
+            "options":["nolocal"]
+        },
+        {        
+            "name":"Documents",
+            "path":"/RandD/"
+        },
+        {        
+            "name":"RandD 001 - Simple Git",
+            "path":"/RandD/Tasks/"
+        },
+        {        
+            "name":"Tools",
+            "path":"/Tools/",
+            "options":["nolocal"]
+        },
+        {        
+            "name":"Simulink",
+            "path":"/Tools/",
+            "options":[]
+        },
+        {        
+            "name":"Toolboxes",
+            "path":"/Toolboxes/",
+            "options":["nolocal"]
+        },
+        {        
+            "name":"RandD Blockset",
+            "path":"/Toolboxes/",
+            "options":["version"]
+        }
+    ]
+}
